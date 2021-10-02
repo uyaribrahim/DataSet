@@ -314,4 +314,342 @@
   "Production":"Broken Road Productions, New Line Cinema, Atomic Monster, Warner Bros., NetherRealm Studios",
   "Website":"N/A",
   "Response":"True"
-}]
+},
+{
+  "Title":"Dragon Fury",
+  "Year":"2021",
+  "Rated":"N/A",
+  "Released":"15 Jun 2021",
+  "Runtime":"88 min",
+  "Genre":"Fantasy, Horror, Mystery",
+  "Director":"Scott Jeffrey",
+  "Writer":"Scott Jeffrey, Rhys Waterfield",
+  "Actors":"Nicola Wright, Chelsea Greenwood, Sofia Lacey",
+  "Plot":"A team of experts travels deep into the mountains to find a dangerous creature.",
+  "Language":"N/A",
+  "Country":"N/A",
+  "Awards":"N/A",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BMzQyM2YyYmYtMGExYi00MjU2LWJkZTktNWNmM2FhMDM5ZWU3XkEyXkFqcGdeQXVyMTQ5OTU5MjU@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"4.9/10"
+    }
+  ],
+  "Metascore":"N/A",
+  "imdbRating":"4.9",
+  "imdbVotes":"315",
+  "imdbID":"tt13563520",
+  "Type":"movie",
+  "DVD":"N/A",
+  "BoxOffice":"N/A",
+  "Production":"N/A",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"Cruella",
+  "Year":"2021",
+  "Rated":"PG-13",
+  "Released":"28 May 2021",
+  "Runtime":"134 min",
+  "Genre":"Comedy, Crime, Drama",
+  "Director":"Craig Gillespie",
+  "Writer":"Dana Fox, Tony McNamara, Aline Brosh McKenna",
+  "Actors":"Emma Stone, Emma Thompson, Joel Fry",
+  "Plot":"A live-action prequel feature film following a young Cruella de Vil.",
+  "Language":"English, French",
+  "Country":"United States, United Kingdom",
+  "Awards":"1 win & 3 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"7.4/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"74%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"59/100"
+    }
+  ],
+  "Metascore":"59",
+  "imdbRating":"7.4",
+  "imdbVotes":"142,814",
+  "imdbID":"tt3228774",
+  "Type":"movie",
+  "DVD":"27 Aug 2021",
+  "BoxOffice":"$86,082,790",
+  "Production":"TSG Entertainment, Gunn Films, Marc Platt Productions, Walt Disney Pictures",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"Nightmare Alley",
+  "Year":"2021",
+  "Rated":"R",
+  "Released":"02 Dec 2021",
+  "Runtime":"N/A",
+  "Genre":"Action, Crime, Drama",
+  "Director":"Guillermo del Toro",
+  "Writer":"William Lindsay Gresham, Kim Morgan, Guillermo del Toro",
+  "Actors":"Cate Blanchett, Willem Dafoe, Bradley Cooper",
+  "Plot":"An ambitious carny with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+  "Language":"English",
+  "Country":"United States",
+  "Awards":"N/A",
+  "Poster":"N/A",
+  "Ratings":[
+    
+  ],
+  "Metascore":"N/A",
+  "imdbRating":"N/A",
+  "imdbVotes":"N/A",
+  "imdbID":"tt7740496",
+  "Type":"movie",
+  "DVD":"N/A",
+  "BoxOffice":"N/A",
+  "Production":"N/A",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"La sombra de la ley",
+  "Year":"2018",
+  "Rated":"TV-MA",
+  "Released":"11 Oct 2018",
+  "Runtime":"126 min",
+  "Genre":"Crime, History, Thriller",
+  "Director":"Dani de la Torre",
+  "Writer":"Patxi Amezcua",
+  "Actors":"Luis Tosar, Michelle Jenner, Vicente Romero",
+  "Plot":"In 1921 a tough cop is sent from Madrid to Barcelona to locate stolen military weaponry.",
+  "Language":"Spanish",
+  "Country":"Spain, France",
+  "Awards":"13 wins & 14 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BNTBlNTVmMWYtZjMyNC00N2M5LTg1M2YtZWZjNTUzODljMTQ3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"6.3/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"67%"
+    }
+  ],
+  "Metascore":"N/A",
+  "imdbRating":"6.3",
+  "imdbVotes":"3,608",
+  "imdbID":"tt7104984",
+  "Type":"movie",
+  "DVD":"31 Oct 2018",
+  "BoxOffice":"N/A",
+  "Production":"Vaca Films, Televisión de Galicia (TVG) S.A., Atresmedia Cine",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"The Old Guard",
+  "Year":"2020",
+  "Rated":"R",
+  "Released":"10 Jul 2020",
+  "Runtime":"125 min",
+  "Genre":"Action, Adventure, Fantasy",
+  "Director":"Gina Prince-Bythewood",
+  "Writer":"Greg Rucka, Leandro Fernandez",
+  "Actors":"Charlize Theron, KiKi Layne, Matthias Schoenaerts",
+  "Plot":"A covert team of immortal mercenaries is suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.",
+  "Language":"English, Arabic, French, Italian",
+  "Country":"United States",
+  "Awards":"3 wins & 25 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"6.7/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"81%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"70/100"
+    }
+  ],
+  "Metascore":"70",
+  "imdbRating":"6.7",
+  "imdbVotes":"144,807",
+  "imdbID":"tt7556122",
+  "Type":"movie",
+  "DVD":"10 Jul 2020",
+  "BoxOffice":"N/A",
+  "Production":"Dune Films, Denver and Delilah Productions, Skydance Media, Netflix, Image Comics",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"Project Power",
+  "Year":"2020",
+  "Rated":"R",
+  "Released":"14 Aug 2020",
+  "Runtime":"113 min",
+  "Genre":"Action, Crime, Sci-Fi",
+  "Director":"Henry Joost, Ariel Schulman",
+  "Writer":"Mattson Tomlin",
+  "Actors":"Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback",
+  "Plot":"When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+  "Language":"English, Spanish",
+  "Country":"United States",
+  "Awards":"2 wins & 6 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"6.0/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"61%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"51/100"
+    }
+  ],
+  "Metascore":"51",
+  "imdbRating":"6.0",
+  "imdbVotes":"79,047",
+  "imdbID":"tt7550000",
+  "Type":"movie",
+  "DVD":"14 Aug 2020",
+  "BoxOffice":"N/A",
+  "Production":"N/A",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"The Platform",
+  "Year":"2019",
+  "Rated":"TV-MA",
+  "Released":"20 Mar 2020",
+  "Runtime":"94 min",
+  "Genre":"Horror, Sci-Fi, Thriller",
+  "Director":"Galder Gaztelu-Urrutia",
+  "Writer":"David Desola, Pedro Rivero",
+  "Actors":"Ivan Massagué, Zorion Eguileor, Antonia San Juan",
+  "Plot":"A vertical prison with one cell per level. Two people per cell. Only one food platform and two minutes per day to feed. An endless nightmare trapped in The Hole.",
+  "Language":"Spanish, Italian",
+  "Country":"Spain",
+  "Awards":"12 wins & 24 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BMzllNmRjYWItNjlhNS00MjcyLWIyODEtMTg0ZjBiNTNhNzQwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"7.0/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"79%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"73/100"
+    }
+  ],
+  "Metascore":"73",
+  "imdbRating":"7.0",
+  "imdbVotes":"188,827",
+  "imdbID":"tt8228288",
+  "Type":"movie",
+  "DVD":"21 Mar 2020",
+  "BoxOffice":"N/A",
+  "Production":"Basque Films",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"I Am Mother",
+  "Year":"2019",
+  "Rated":"TV-14",
+  "Released":"07 Jun 2019",
+  "Runtime":"113 min",
+  "Genre":"Drama, Mystery, Sci-Fi",
+  "Director":"Grant Sputore",
+  "Writer":"Michael Lloyd Green, Grant Sputore",
+  "Actors":"Luke Hawker, Rose Byrne, Maddie Lenton",
+  "Plot":"In the wake of humanity's extinction, a teenage girl is raised by a robot designed to repopulate the earth. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.",
+  "Language":"English",
+  "Country":"Australia",
+  "Awards":"4 wins & 5 nominations",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"6.7/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"91%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"64/100"
+    }
+  ],
+  "Metascore":"64",
+  "imdbRating":"6.7",
+  "imdbVotes":"83,107",
+  "imdbID":"tt6292852",
+  "Type":"movie",
+  "DVD":"07 Jun 2019",
+  "BoxOffice":"N/A",
+  "Production":"Rhea Films, The Penguin Empire, Southern Light Films",
+  "Website":"N/A",
+  "Response":"True"
+},
+{
+  "Title":"Ready Player One",
+  "Year":"2018",
+  "Rated":"PG-13",
+  "Released":"29 Mar 2018",
+  "Runtime":"140 min",
+  "Genre":"Action, Adventure, Sci-Fi",
+  "Director":"Steven Spielberg",
+  "Writer":"Zak Penn, Ernest Cline",
+  "Actors":"Tye Sheridan, Olivia Cooke, Ben Mendelsohn",
+  "Plot":"When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+  "Language":"English",
+  "Country":"United States, India",
+  "Awards":"Nominated for 1 Oscar. 11 wins & 55 nominations total",
+  "Poster":"https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+  "Ratings":[
+    {
+      "Source":"Internet Movie Database",
+      "Value":"7.4/10"
+    },
+    {
+      "Source":"Rotten Tomatoes",
+      "Value":"72%"
+    },
+    {
+      "Source":"Metacritic",
+      "Value":"64/100"
+    }
+  ],
+  "Metascore":"64",
+  "imdbRating":"7.4",
+  "imdbVotes":"396,895",
+  "imdbID":"tt1677720",
+  "Type":"movie",
+  "DVD":"05 Apr 2018",
+  "BoxOffice":"$137,690,172",
+  "Production":"RatPac-Dune Entertainment, Warner Bros., Village Roadshow Pictures, Amblin Entertainment, De Line Pictures",
+  "Website":"N/A",
+  "Response":"True"
+}
+]
